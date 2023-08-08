@@ -13,12 +13,12 @@
           While you can use Redux with any view library, we introduce Redux here before combining it with React in the next set of courses.
           In this course, you'll learn the fundamentals of Redux stores, actions, reducers and middleware to manage data throughout your application.</p>
         <ul>
-            <li>Learn How Script Tags and Document Ready Work</li>
-            <li>Target HTML Elements with Selectors Using jQuery</li>
-            <li>Target Elements by Class Using jQuery</li>
-            <li>Target Elements by id Using jQuery</li>
-            <li>Delete Your jQuery Functions</li>
-            <li>Delete Your jQuery Functions</li>
+            <li>Create a Redux Store</li>
+            <li>Get State from the Redux Store</li>
+            <li>Define a Redux Action</li>
+            <li>Define an Action Creator</li>
+            <li>Dispatch an Action Event</li>
+            <li>Handle an Action in the Store</li>
             <li>Target the Same Element with Multiple jQuery Selectors</li>
             <li>Remove Classes from an Element with jQuery</li>
             <li>Change the CSS of an Element Using jQuery</li>
